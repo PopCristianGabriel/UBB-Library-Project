@@ -1,0 +1,19 @@
+<div *ngIf="canWrite==true">
+  <ul>
+    <li *ngFor="let client of this.list.clients">
+      {{client.id}}
+      {{client.fullName}}
+      <ul>
+        <li *ngFor="let book of client.booksBought">
+          {{book.id}}
+          {{book.autorName}}
+          {{book.title}}
+          {{book.year}}
+          {{book.price}}
+        </li>
+      </ul>
+      {{client.moneySpet}}
+      <br><br>
+    </li>
+  </ul>
+</div>

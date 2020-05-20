@@ -1,0 +1,16 @@
+<div *ngIf="canWrite==true">
+  <ul>
+    <li *ngFor="let entity of this.list.entities">
+      Book:
+    {{entity.book.id}}
+      {{entity.book.autorName}}
+      {{entity.book.title}}
+      {{entity.book.year}}
+      {{entity.book.price}}<br>
+      Client:
+      {{entity.client.id}}
+      {{entity.client.fullName}}
+      {{entity.client.moneySpet}}<br><br><br>
+    </li>
+  </ul>
+</div>

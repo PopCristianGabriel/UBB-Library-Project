@@ -1,0 +1,11 @@
+<div *ngIf="canWrite==true">
+  <ul>
+    <li *ngFor="let book of this.list.listOfBooks">
+      {{ book["id"] }}
+      {{book["autor"]}}
+      {{book["title"]}}
+      {{book["year"]}}
+      {{book["price"]}}
+    </li>
+  </ul>
+</div>
