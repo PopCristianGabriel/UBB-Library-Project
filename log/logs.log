@@ -1,0 +1,24 @@
+2020-05-12T19:45:18,640 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78123e82: startup date [Tue May 12 19:45:18 EEST 2020]; root of context hierarchy 
+2020-05-12T19:45:18,733 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:48:14,074 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78123e82: startup date [Tue May 12 19:48:14 EEST 2020]; root of context hierarchy 
+2020-05-12T19:48:14,168 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:50:04,239 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@76c3e77a: startup date [Tue May 12 19:50:04 EEST 2020]; root of context hierarchy 
+2020-05-12T19:50:04,333 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:51:14,777 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78123e82: startup date [Tue May 12 19:51:14 EEST 2020]; root of context hierarchy 
+2020-05-12T19:51:14,871 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:52:02,241 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@fba92d3: startup date [Tue May 12 19:52:02 EEST 2020]; root of context hierarchy 
+2020-05-12T19:52:02,335 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:52:29,713 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@fba92d3: startup date [Tue May 12 19:52:29 EEST 2020]; root of context hierarchy 
+2020-05-12T19:52:29,791 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:54:35,354 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78123e82: startup date [Tue May 12 19:54:35 EEST 2020]; root of context hierarchy 
+2020-05-12T19:54:35,448 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:56:14,313 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@76c3e77a: startup date [Tue May 12 19:56:14 EEST 2020]; root of context hierarchy 
+2020-05-12T19:56:14,407 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T19:57:45,632 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@662b4c69: startup date [Tue May 12 19:57:45 EEST 2020]; root of context hierarchy 
+2020-05-12T19:57:45,726 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-12T20:02:32,016 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78123e82: startup date [Tue May 12 20:02:32 EEST 2020]; root of context hierarchy 
+2020-05-12T20:02:32,110 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-13T00:47:04,351 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@fba92d3: startup date [Wed May 13 00:47:04 EEST 2020]; root of context hierarchy 
+2020-05-13T00:47:04,870 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
+2020-05-13T14:15:40,608 INFO  [main]: AnnotationConfigApplicationContext   - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@fba92d3: startup date [Wed May 13 14:15:40 EEST 2020]; root of context hierarchy 
+2020-05-13T14:15:40,935 INFO  [main]: AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring 
